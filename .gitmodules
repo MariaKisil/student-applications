@@ -1,3 +1,6 @@
 [submodule "2024-2025/PMP-42/bachelor-thesis/Kliufas Severyn"]
 	path = 2024-2025/PMP-42/bachelor-thesis/Kliufas Severyn
 	url = https://github.com/vidkryvashka/esp32-cam-positioning.git
+[submodule "2025-2026/PMP-42/bachelor-thesis/Kisil Maria/FractalProject"]
+	path = 2025-2026/PMP-42/bachelor-thesis/Kisil Maria/FractalProject
+	url = https://github.com/MariaKisil/FractalProject.git
